@@ -1,0 +1,54 @@
+[
+	{"title":"Java Language, Core to Advanced",
+	 "expYear":"3","expMonth":"6",
+	 "trainingRates":[
+		 {
+			 "mode":"Remote",
+		  "charge":"2000",
+		  "unit":"Per Hr"
+		 },
+		 {
+			 "mode":"Centre",
+		  "charge":"3000",
+		  "unit":"Per Week"
+		 },
+		 {
+			 "mode":"Learners Place",
+		  "charge":"3500",
+		  "unit":"Per Class"
+		 },
+		 {
+			 "mode":"My Place",
+		  "charge":"4000",
+		  "unit":"Per Class"
+		 }
+	 ]
+	},
+	{"title":"Apache Kafka A to Z",
+	 "expYear":"5",
+	 "expMonth":"3",
+	 "trainingRates":
+	 [
+		 {
+			 "mode":"Remote",
+		  "charge":"2000",
+		  "unit":"Per Hr"
+		 },
+		 {
+			 "mode":"Centre",
+		  "charge":"2500",
+		  "unit":"Per Week"
+		 },
+		 {
+			 "mode":"Learners Place",
+		  "charge":"3000",
+		  "unit":"Per Class"
+		 },
+		 {
+			 "mode":"My Place",
+		  "charge":"4000",
+		  "unit":"Per Class"
+		 }
+	 ]
+	}
+]
