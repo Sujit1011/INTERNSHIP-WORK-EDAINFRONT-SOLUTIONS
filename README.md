@@ -7,10 +7,10 @@
   - Navigate to the relevant directory: 
     - WAMP:   `(install location)/wamp/www` 
     - XAMPP:  `(install location)/xampp/htdocs`
-  - Clone the repository: `git clone https://github.com/Sujit1011/Sample_PHP_Project.git`
+  - Clone the repository: `git clone https://github.com/Sujit1011/INTERNSHIP-WORK-EDAINFRONT-SOLUTIONS.git`
   - Start the server:
     - WAMP:   `(install location)/wamp/wampmanager.exe`
     - XAMPP:  `(install location)/xampp-control.exe`
-  - Open Browser and navigate to `http://localhost/Sample_PHP_Project/a_login_form.php`
+  - Open Browser and navigate to `http://localhost/INTERNSHIP-WORK-EDAINFRONT-SOLUTIONS`
   - User Name - 'ABC'
   - Password - '12345'
