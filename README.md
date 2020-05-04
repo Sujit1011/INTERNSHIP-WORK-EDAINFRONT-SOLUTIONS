@@ -11,7 +11,7 @@
   - Start the server:
     - WAMP:   `(install location)/wamp/wampmanager.exe`
     - XAMPP:  `(install location)/xampp-control.exe`
-  - Open Browser and navigate to `http://localhost/INTERNSHIP-WORK-EDAINFRONT-SOLUTIONS`
+  - Open Browser and navigate to `http://localhost/INTERNSHIP-WORK-EDAINFRONT-SOLUTIONS-master`
 
 ## ScreenShot
 
