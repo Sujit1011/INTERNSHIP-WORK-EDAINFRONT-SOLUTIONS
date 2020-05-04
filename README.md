@@ -12,5 +12,3 @@
     - WAMP:   `(install location)/wamp/wampmanager.exe`
     - XAMPP:  `(install location)/xampp-control.exe`
   - Open Browser and navigate to `http://localhost/INTERNSHIP-WORK-EDAINFRONT-SOLUTIONS`
-  - User Name - 'ABC'
-  - Password - '12345'
